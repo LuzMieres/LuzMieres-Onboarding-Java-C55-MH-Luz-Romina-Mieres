@@ -1,6 +1,6 @@
 package day_2;
 
-import pojo.Person;
+import day_2.pojo.Person;
 
 public class main {
     public static void main(String[] args) {

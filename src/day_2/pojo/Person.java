@@ -1,6 +1,4 @@
-package pojo;
-
-import java.util.Arrays;
+package day_2.pojo;
 
 public class Person {
     private String name;
